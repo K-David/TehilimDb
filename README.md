@@ -1,2 +1,2 @@
 # Tehilim
-Database of Songs.
+This repository contains a programmatically created dataset of OpenLyric songs for use by the various applications. Contributions will likely not be merged in at this time as the structure and layout are still a work in progress. A program is under development that will simplify making contributions and contributions will likely require its use to maintain continuity with the other applications.
